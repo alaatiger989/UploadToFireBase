@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UploadFireBase</string>
+    <string name="upload">Upload</string>
+    <string name="download">Download</string>
+    <string name="status_of_db">Status Of DB</string>
+    <string name="status_of_fb">Status of FB</string>
+</resources>
